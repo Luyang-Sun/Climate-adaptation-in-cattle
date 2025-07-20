@@ -1,13 +1,13 @@
 ###################################################################
 # File Name: 01.PCA_FST_pipline.sh
-# Author: Fuwen Wang
-# mail: wangfuwen2016@nwafu.edu.cn
+# Author: Luyang Sun
+# mail: sunluyang@nwafu.edu.cn
 # Created Time: Wed 16 Aug 2023 02:26:17 AM CST
 #=============================================================
 #i!/bin/bash
 #for i in {1..29}
 #do
-#vcftools --gzvcf /storage/public/home/2019050383/04.Hubei/06.eff/phase/chr${i}.imp.phase.vcf.gz --recode --recode-INFO-all --stdout | bgzip > ${i}.imp.phase.vcf.gz
+#vcftools --gzvcf /storage/public/home/2019050383/phase/chr${i}.imp.phase.vcf.gz --recode --recode-INFO-all --stdout | bgzip > ${i}.imp.phase.vcf.gz
 #done
 #for i in {1..29}
 #do

@@ -13,7 +13,7 @@ om.bta <- as.matrix(read.table(omega_file, header = F))
 star.bta<- as.matrix(read.table(file, header = F))
 #compute the fmd.dist between the two matrices
 fmd_value <- fmd.dist(om.bta,star.bta)   
-# 输出 FMD 距离
+#  FMD Distance
 cat("FMD Distance:", fmd_value, "\n")
 
 write.table(fmd_value, file = out_file, row.names = FALSE, col.names = FALSE)

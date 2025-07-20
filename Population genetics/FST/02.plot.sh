@@ -1,7 +1,7 @@
 ###################################################################
 # File Name: cmd.sh
-# Author: Fuwen Wang
-# mail: wangfuwen2016@nwafu.edu.cn
+# Author: Luyang Sun
+# mail: sunluyang8869@nwafu.edu.cn
 # Created Time: Wed 16 Aug 2023 06:38:15 PM CST
 #=============================================================
 #!/bin/bash

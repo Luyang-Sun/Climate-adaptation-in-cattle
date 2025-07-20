@@ -2,7 +2,7 @@
 """
 @File:fiter_impfile_DR2.py
 @Time:2023/1/28 17:02
-@Note:This is a script 4 根据INFO的DR2列对imp文件进行过滤，要求生成文件DR2大于0.9。用法python3 fiter_impfile_DR2.py chr23.imp.vcf.gz chr23.imp_DR2filter.vcf.gz
+@Note:This is a script 4 Filter the imp files based on the DR2 column of INFO, and require that the generated file DR2 be greater than 0.9.python3 fiter_impfile_DR2.py chr23.imp.vcf.gz chr23.imp_DR2filter.vcf.gz
 
 """
 import gzip
