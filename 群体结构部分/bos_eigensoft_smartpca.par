@@ -1,0 +1,12 @@
+genotypename: 744.bed
+snpname: 744.bim
+indivname: 744.fam
+evecoutname: 744.no.evec  
+evaloutname: 744.no.eval
+numoutevec: 5
+numoutlieriter: 0
+numoutlierevec: 5
+nsnpldregress: 0
+outliersigmathresh: 6.0
+outlieroutname: bos_eigensoft_smartpca.log
+usenorm: YES
